@@ -43,7 +43,6 @@ module.exports = {
     "telosculture": ["@BrianT7", "@MiloSx7"],
     "fortisblocks": ["@lorenzo_dla","@jesusg17"],
     "velaryonbloc": ["@Rozza1227"],
-    "anydextestnt": ["@Ali_Raghami"],
     "teloskiwinzz": ["@TelosKiwi"],
     "blockbastrds": ["@mrquark28"],
     "bigironbptex": ["@nathanhennigh"],
